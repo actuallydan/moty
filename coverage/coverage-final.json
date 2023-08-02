@@ -1,2 +1,0 @@
-{"C:\\Users\\dankr\\Documents\\node\\jest-node\\index.ts": {"path":"C:\\Users\\dankr\\Documents\\node\\jest-node\\index.ts","statementMap":{"0":{"start":{"line":2,"column":4},"end":{"line":2,"column":16}},"1":{"start":{"line":1,"column":0},"end":{"line":1,"column":24}}},"fnMap":{"0":{"name":"doStuff","decl":{"start":{"line":1,"column":24},"end":{"line":1,"column":31}},"loc":{"start":{"line":1,"column":31},"end":{"line":3,"column":1}}}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":1},"b":{}}
-}
